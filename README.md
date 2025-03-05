@@ -19,9 +19,6 @@
 ---
 
 ## 🛠️ Installation & Setup
-### 🔹 **For Web-Based Version Static Demo**
-No installation needed! Simply visit: **[NetManager](https://netmanager.netlify.app/)**
-
 
 #### **Run Locally**:
 ```bash
