@@ -39,28 +39,13 @@ python app.py
 1. **Enter the IP Range** (e.g., `192.168.1.0/24`).
 2. Click **Scan Network** to detect active/inactive devices.
 3. View results with **real-time updates** and logs.
-4. Export reports if needed.
-
 
 ---
-
-## 🤝 Contributing
-Want to contribute? Feel free to **fork** the repository, create a branch, and submit a **pull request**! 🚀
-
-```bash
-git checkout -b feature-branch
-git commit -m "Added new feature"
-git push origin feature-branch
-```
-
----
-
 ## 💡 Future Enhancements
 - 🔹 Mobile App Version 📱
 - 🔹 Advanced Threat Detection 🚨
 - 🔹 Cloud-Based Logging ☁️
 - 🔹 AI-Powered Network Anomaly Detection 🤖
-
 
 
 > **"A connected network is a productive network!"** 🖥️⚡
