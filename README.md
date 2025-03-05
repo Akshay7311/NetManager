@@ -1,7 +1,5 @@
 # NetManager - Network Connectivity Tool for Lab Computers
 
-![NetManager Preview](https://netmanager.netlify.app/preview.png)
-
 ## 🚀 Overview
 **NetManager** is an automated **network monitoring tool** designed for **laboratory environments**. It efficiently pings all computers in a lab to verify their presence on the network, ensuring seamless connectivity for users and devices.
 
