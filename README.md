@@ -44,21 +44,6 @@ python app.py
 3. View results with **real-time updates** and logs.
 4. Export reports if needed.
 
----
-
-## 📷 Screenshots
-![Dashboard](https://netmanager.netlify.app/)
-*Real-time device status and network insights.*
-
----
-
-## 🔒 Security & Privacy
-NetManager is designed **only for authorized network monitoring**. Ensure you have proper **administrative permissions** before scanning a network.
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ---
 
